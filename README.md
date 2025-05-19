@@ -1,105 +1,67 @@
-# 🏙️ Tech Companies by City
+# 👨‍💻 Companies Hiring Full-Stack React Native Developers (India 🇮🇳)
 
-A curated list of companies categorized by city for developers, job seekers, and networkers. Useful for exploring local opportunities, remote-friendly companies, or startup ecosystems.
-
----
-
-## 📍 Cities Covered
-
-- [Bangalore](#bangalore)
-- [Hyderabad](#hyderabad)
-- [Pune](#pune)
-- [Mumbai](#mumbai)
-- [Chennai](#chennai)
-- [Delhi NCR](#delhi-ncr)
-- [Remote-Friendly](#remote-friendly)
+Curated list of companies hiring React Native + Full-Stack developers (Node.js, MongoDB, etc.) — organized by city for easy networking and outreach.
 
 ---
 
-## 🔍 How to Use
+## 📬 How to Use
 
-Browse companies based on the city you're interested in. Each entry contains:
-
-- 🏢 Company Name  
-- 📌 Location  
-- 🖥️ Domain / Tech Stack  
-- 🌐 Website  
-- 📄 Notes (e.g. hiring, remote-friendly, etc.)
+- Click on the **LinkedIn** links to connect with the company or recruiters  
+- Use **company websites** to apply or check the Careers page  
+- Email directly if available  
+- Keep updating this list with new opportunities!
 
 ---
 
-## 🏢 Bangalore
+## 🏙️ Bangalore
 
-| Company Name      | Domain / Tech Stack   | Website                      | Notes                  |
-|-------------------|------------------------|-------------------------------|------------------------|
-| Infosys           | IT Services, Java      | [infosys.com](https://infosys.com) | Large enterprise       |
-| Razorpay          | FinTech, Node.js, React| [razorpay.com](https://razorpay.com) | Hiring actively        |
-| Swiggy            | Food Tech, Python      | [swiggy.com](https://swiggy.com)   | Hybrid work model      |
-
----
-
-## 🏢 Hyderabad
-
-| Company Name      | Domain / Tech Stack   | Website                      | Notes                  |
-|-------------------|------------------------|-------------------------------|------------------------|
-| Microsoft India   | Cloud, .NET, Azure     | [microsoft.com](https://microsoft.com) | Corporate campus       |
-| InMobi            | AdTech, Big Data       | [inmobi.com](https://inmobi.com)   | Remote options         |
+| Company Name | Tech Stack | Careers | LinkedIn | Email |
+|--------------|------------|---------|----------|-------|
+| Razorpay     | React Native, Node.js, MongoDB | [razorpay.com/careers](https://razorpay.com/careers) | [LinkedIn](https://www.linkedin.com/company/razorpay/) | - |
+| CRED         | React Native, TypeScript, Node.js | [cred.club/careers](https://cred.club/careers) | [LinkedIn](https://www.linkedin.com/company/cred-club/) | - |
+| Appscrip     | React Native, MERN | [appscrip.com](https://www.appscrip.com) | [LinkedIn](https://www.linkedin.com/company/appscrip/) | contact@appscrip.com |
 
 ---
 
-## 🏢 Pune
+## 🏙️ Hyderabad
 
-| Company Name      | Domain / Tech Stack   | Website                      | Notes                  |
-|-------------------|------------------------|-------------------------------|------------------------|
-| Thoughtworks      | Consulting, Java       | [thoughtworks.com](https://thoughtworks.com) | Great engineering culture |
-
----
-
-## 🏢 Mumbai
-
-_(Add entries)_
+| Company Name | Tech Stack | Careers | LinkedIn | Email |
+|--------------|------------|---------|----------|-------|
+| InMobi       | React Native, TypeScript, Cloud | [inmobi.com](https://inmobi.com) | [LinkedIn](https://www.linkedin.com/company/inmobi/) | - |
+| Darwinbox    | React Native, MERN | [darwinbox.com](https://darwinbox.com) | [LinkedIn](https://www.linkedin.com/company/darwinbox/) | careers@darwinbox.com |
 
 ---
 
-## 🏢 Chennai
+## 🏙️ Pune
 
-_(Add entries)_
-
----
-
-## 🏢 Delhi NCR
-
-_(Add entries)_
+| Company Name | Tech Stack | Careers | LinkedIn | Email |
+|--------------|------------|---------|----------|-------|
+| Mindbowser   | React Native, Node.js, Firebase | [mindbowser.com](https://mindbowser.com) | [LinkedIn](https://www.linkedin.com/company/mindbowser/) | info@mindbowser.com |
+| TechVerito   | React Native, Full Stack JS | [techverito.com](https://techverito.com) | [LinkedIn](https://www.linkedin.com/company/techverito/) | careers@techverito.com |
 
 ---
 
 ## 🌍 Remote-Friendly
 
-| Company Name      | Domain / Tech Stack   | Website                      | Notes                  |
-|-------------------|------------------------|-------------------------------|------------------------|
-| GitHub            | DevOps, Git            | [github.com](https://github.com) | Fully remote           |
-| Turing            | Remote jobs platform   | [turing.com](https://turing.com) | Remote developers only |
+| Company Name | Tech Stack | Careers | LinkedIn | Email |
+|--------------|------------|---------|----------|-------|
+| GeekyAnts    | React Native, Node.js | [geekyants.com](https://geekyants.com) | [LinkedIn](https://www.linkedin.com/company/geekyants/) | careers@geekyants.com |
+| Turing       | Remote React Native jobs | [turing.com](https://www.turing.com) | [LinkedIn](https://www.linkedin.com/company/turingcom/) | - |
+| Hashnode     | React Native, TypeScript | [hashnode.com](https://hashnode.com) | [LinkedIn](https://www.linkedin.com/company/hashnode/) | hello@hashnode.com |
 
 ---
 
-## 🛠️ Contributing
+## ✍️ Contributing
 
-Want to add a company?
+Feel free to submit a PR if:
 
-1. Fork this repo
-2. Add your entry in the correct city section
-3. Create a pull request
-
-Please follow the format and keep entries professional.
+- You know a company hiring React Native Full-Stack devs  
+- You have updated contact info  
+- You want to add internship/freelance info  
 
 ---
 
 ## 📄 License
 
-MIT
+MIT — use it freely to build your own job-hunting map!
 
----
-
-## 🙌 Credits
-
-Maintained by [Your Name](https://github.com/yourusername). Contributions welcome!
