@@ -1,67 +1,42 @@
-# 👨‍💻 Companies Hiring Full-Stack React Native Developers (India 🇮🇳)
+# 🚀 Full-Stack React Native Companies by City
 
-Curated list of companies hiring React Native + Full-Stack developers (Node.js, MongoDB, etc.) — organized by city for easy networking and outreach.
+This repository contains curated lists of companies hiring for **Full-Stack React Native Developer** roles, organized by city. The goal is to make it easier for developers to find relevant companies and connect via LinkedIn or email for job opportunities.
 
----
-
-## 📬 How to Use
-
-- Click on the **LinkedIn** links to connect with the company or recruiters  
-- Use **company websites** to apply or check the Careers page  
-- Email directly if available  
-- Keep updating this list with new opportunities!
+> ✅ This list will be continuously updated as new companies are discovered.
 
 ---
 
-## 🏙️ Bangalore
+## 📂 Navigate by City
 
-| Company Name | Tech Stack | Careers | LinkedIn | Email |
-|--------------|------------|---------|----------|-------|
-| Razorpay     | React Native, Node.js, MongoDB | [razorpay.com/careers](https://razorpay.com/careers) | [LinkedIn](https://www.linkedin.com/company/razorpay/) | - |
-| CRED         | React Native, TypeScript, Node.js | [cred.club/careers](https://cred.club/careers) | [LinkedIn](https://www.linkedin.com/company/cred-club/) | - |
-| Appscrip     | React Native, MERN | [appscrip.com](https://www.appscrip.com) | [LinkedIn](https://www.linkedin.com/company/appscrip/) | contact@appscrip.com |
-
----
-
-## 🏙️ Hyderabad
-
-| Company Name | Tech Stack | Careers | LinkedIn | Email |
-|--------------|------------|---------|----------|-------|
-| InMobi       | React Native, TypeScript, Cloud | [inmobi.com](https://inmobi.com) | [LinkedIn](https://www.linkedin.com/company/inmobi/) | - |
-| Darwinbox    | React Native, MERN | [darwinbox.com](https://darwinbox.com) | [LinkedIn](https://www.linkedin.com/company/darwinbox/) | careers@darwinbox.com |
+- [Bangalore](companies/bangalore.md)
+- [Hyderabad](companies/hyderabad.md)
+- [Pune](companies/pune.md)
+- [Chennai](companies/chennai.md)
+- [Delhi NCR (Gurgaon/Noida)](companies/ncr.md)
+- [Remote Opportunities](companies/remote.md)
 
 ---
 
-## 🏙️ Pune
+## 🛠️ How to Use
 
-| Company Name | Tech Stack | Careers | LinkedIn | Email |
-|--------------|------------|---------|----------|-------|
-| Mindbowser   | React Native, Node.js, Firebase | [mindbowser.com](https://mindbowser.com) | [LinkedIn](https://www.linkedin.com/company/mindbowser/) | info@mindbowser.com |
-| TechVerito   | React Native, Full Stack JS | [techverito.com](https://techverito.com) | [LinkedIn](https://www.linkedin.com/company/techverito/) | careers@techverito.com |
-
----
-
-## 🌍 Remote-Friendly
-
-| Company Name | Tech Stack | Careers | LinkedIn | Email |
-|--------------|------------|---------|----------|-------|
-| GeekyAnts    | React Native, Node.js | [geekyants.com](https://geekyants.com) | [LinkedIn](https://www.linkedin.com/company/geekyants/) | careers@geekyants.com |
-| Turing       | Remote React Native jobs | [turing.com](https://www.turing.com) | [LinkedIn](https://www.linkedin.com/company/turingcom/) | - |
-| Hashnode     | React Native, TypeScript | [hashnode.com](https://hashnode.com) | [LinkedIn](https://www.linkedin.com/company/hashnode/) | hello@hashnode.com |
+- Click on a city to view companies hiring for Full-Stack React Native roles.
+- Each company entry may contain:
+  - Company Name
+  - Website
+  - LinkedIn Page
+  - Direct Contact (HR, Careers Page, etc.)
+- Use LinkedIn or Email to reach out for potential openings.
 
 ---
 
-## ✍️ Contributing
+## 👨‍💻 Contributing
 
-Feel free to submit a PR if:
-
-- You know a company hiring React Native Full-Stack devs  
-- You have updated contact info  
-- You want to add internship/freelance info  
+If you know any companies that should be listed, feel free to open a pull request or raise an issue!
 
 ---
 
-## 📄 License
+## 📬 Connect
 
-MIT — use it freely to build your own job-hunting map!
+If you're building a similar resource or want to collaborate, reach out via [LinkedIn](https://www.linkedin.com).
+
 
